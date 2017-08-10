@@ -11,5 +11,5 @@
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
   },
-  "repository": "www.idontknow.com"
+  "repository": "https://github.com/powerful23/how-to-npm-learning.git"
 }
